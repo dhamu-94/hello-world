@@ -5,15 +5,15 @@
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
-    <input type="text" placeholder="Thanushree K " name="Name" id="Name" required>
+    <input type="text" placeholder="Thanuja N " name="Name" id="Name" required>
     <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
-    <input type="text" placeholder="8888888888" name="mobile" id="mobile" required>
+    <input type="text" placeholder="77777" name="mobile" id="mobile" required>
     <br>
 
     <label for="email"><b>Enter Email</b></label>
-    <input type="text" placeholder="dajsjhjhhefj@gmail.com" name="email" id="email" required>
+    <input type="text" placeholder="thunja.n@gmail.com" name="email" id="email" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
